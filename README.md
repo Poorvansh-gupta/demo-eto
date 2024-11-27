@@ -1,2 +1,2 @@
 # demo-eto
-This is a demo repo
+This is a demo repo.
